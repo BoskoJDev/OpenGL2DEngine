@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\'cs'  folderi\\cs233\\sprajtovi\\sprajtovi\\module.ixx",
+        "ProvidedModule": "",
+        "ImportedModules": [
+            "Module"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
