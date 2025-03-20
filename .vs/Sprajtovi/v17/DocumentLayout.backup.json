@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Sprajtovi\\OpenGL2DEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4ED2C4-FEEC-4C71-B86B-B3048E031CFA}|Sprajtovi\\Sprajtovi.vcxproj|G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Aplikacija.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F4ED2C4-FEEC-4C71-B86B-B3048E031CFA}|Sprajtovi\\Sprajtovi.vcxproj|solutionrelative:Sprajtovi\\Aplikacija.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4ED2C4-FEEC-4C71-B86B-B3048E031CFA}|Sprajtovi\\Sprajtovi.vcxproj|G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Tekstura2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F4ED2C4-FEEC-4C71-B86B-B3048E031CFA}|Sprajtovi\\Sprajtovi.vcxproj|solutionrelative:Sprajtovi\\Tekstura2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4ED2C4-FEEC-4C71-B86B-B3048E031CFA}|Sprajtovi\\Sprajtovi.vcxproj|G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Unos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F4ED2C4-FEEC-4C71-B86B-B3048E031CFA}|Sprajtovi\\Sprajtovi.vcxproj|solutionrelative:Sprajtovi\\Unos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tekstura2D.cpp",
+              "DocumentMoniker": "G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Tekstura2D.cpp",
+              "RelativeDocumentMoniker": "Sprajtovi\\Tekstura2D.cpp",
+              "ToolTip": "G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Tekstura2D.cpp",
+              "RelativeToolTip": "Sprajtovi\\Tekstura2D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T12:37:50.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unos.cpp",
+              "DocumentMoniker": "G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Unos.cpp",
+              "RelativeDocumentMoniker": "Sprajtovi\\Unos.cpp",
+              "ToolTip": "G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Unos.cpp",
+              "RelativeToolTip": "Sprajtovi\\Unos.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T12:37:50.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aplikacija.cpp",
+              "DocumentMoniker": "G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Aplikacija.cpp",
+              "RelativeDocumentMoniker": "Sprajtovi\\Aplikacija.cpp",
+              "ToolTip": "G:\\Sprajtovi\\OpenGL2DEngine\\Sprajtovi\\Aplikacija.cpp",
+              "RelativeToolTip": "Sprajtovi\\Aplikacija.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T12:37:48.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
